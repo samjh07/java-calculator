@@ -99,19 +99,8 @@ Result = 75.0
 
 ## 📸 Application Preview
 
-_Add a screenshot of the running application here._
+<img width="568" height="241" alt="image" src="https://github.com/user-attachments/assets/8409c3a4-d7cf-4911-848a-3a8aa1ca74e1" />
 
-Example:
-
-```
-images/output.png
-```
-
-After adding the screenshot, include:
-
-```markdown
-![Calculator Output](images/output.png)
-```
 
 ---
 
